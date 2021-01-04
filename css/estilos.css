@@ -1,0 +1,82 @@
+.fondo {
+    background: url(../img/fondo.jpg);
+    background-size: cover;
+    height: 40rem;
+    display: flex;
+    align-items: center;
+}
+
+.title {
+    color: #fff;
+}
+
+.title a {
+    text-decoration: none;
+}
+
+.title:hover {
+    cursor: pointer;
+}
+
+.nave {
+    color: #fff;
+}
+
+.nave:hover {
+    color: blue;
+    transform: scale(1.4);
+}
+
+.icn {
+    font-size: 4rem;
+}
+
+.seguro {
+    color: #26547C;
+}
+
+.seguro:hover {
+    transform: scale(1.4);
+    color: #25425c;
+}
+
+.calidad {
+    color: #EF476F;
+}
+
+.calidad:hover {
+    transform: scale(1.4);
+    color: #ca234a;
+}
+
+.accesible {
+    color: #FFD166;
+}
+
+.accesible:hover {
+    transform: scale(1.4);
+    color: #f5bb35;
+}
+
+.grs {
+    background-color: gray;
+}
+
+.bordess {
+    border: 1px solid #4d5061;
+}
+
+
+/* Panigas otras */
+
+.titulo-x a {
+    text-decoration: none;
+}
+
+.navee {
+    font-size: 1rem;
+}
+
+.navee:hover {
+    transform: scale(1.4);
+}
